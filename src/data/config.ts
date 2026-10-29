@@ -1,0 +1,52 @@
+const config = {
+  title: "Aldho | website Development Enthusiast",
+  description: {
+    long: "Welcome to the portfolio of Aldho Jularso, a Software Engineer with over 1.5 years of experience in Development, DevOps, and Database Management. Skilled in building scalable applications, automating workflows, and collaborating with international clients through freelance projects. Known for strong analytical thinking, clear communication, and a team-oriented mindset to drive efficient digital solutions and continuous improvement.",
+    short:
+      "Explore the portfolio of Aldho Jularso – a Software Engineer and freelancer passionate about Development, DevOps, and real-world problem solving.",
+  },
+  keywords: [
+    "Aldho",
+    "Aldho Jularso",
+    "AldhoJularso",
+    "Aldho Jularso portfolio",
+    "portfolio",
+    "Development",
+    "Database",
+    "AI Docker file optimizer",
+    "Finance me",
+    "creative technologist",
+    "web development",
+    "interactive websites",
+    // "GSAP",
+    "React",
+    "Next.js",
+    // "Spline",
+    // "Framer Motion",
+    "Tailwind CSS",
+    "TypeScript",
+    "Firebase",
+    // "Socket.io",
+    "JavaScript",
+    "TypeScript",
+    "Vue.js",
+    "Express.js",
+    "PostgreSQL",
+    "MongoDB",
+    "Tailwind CSS",
+    "Vercel",
+  ],
+  author: "Aldho Jularso",
+  email: "ajularso@gmail.com",
+  site: "https://abhijitzende.com",
+
+  social: {
+    twitter: "#",
+    linkedin: "https://www.linkedin.com/in/aldho-jularso-a12179283/",
+    instagram: "https://www.instagram.com/a.aldhoo__/",
+    facebook:
+      "https://www.facebook.com/profile.php?id=100010942657778&locale=id_ID",
+    github: "#",
+  },
+};
+export { config };
